@@ -9,6 +9,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -26,6 +27,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
