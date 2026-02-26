@@ -9,6 +9,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -17,6 +18,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
