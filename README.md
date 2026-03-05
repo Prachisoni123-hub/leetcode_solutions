@@ -68,6 +68,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 ## String
 |  |
 | ------- |
