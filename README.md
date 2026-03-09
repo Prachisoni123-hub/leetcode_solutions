@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -77,6 +78,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 ## Matrix
 |  |
