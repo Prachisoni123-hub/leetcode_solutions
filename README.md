@@ -33,6 +33,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -77,6 +78,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
