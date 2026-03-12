@@ -25,6 +25,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -86,6 +87,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 ## Matrix
 |  |
@@ -104,4 +106,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
