@@ -33,6 +33,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -79,6 +80,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
@@ -110,4 +112,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
