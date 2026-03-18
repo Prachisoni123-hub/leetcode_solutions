@@ -85,6 +85,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -135,4 +136,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
