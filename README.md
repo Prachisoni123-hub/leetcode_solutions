@@ -99,6 +99,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2057-smallest-index-with-equal-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2057-smallest-index-with-equal-value) |
 ## String
 |  |
 | ------- |
