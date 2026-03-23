@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
@@ -129,6 +130,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 ## String Matching
 |  |
 | ------- |
@@ -161,4 +163,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
