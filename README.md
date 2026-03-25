@@ -48,6 +48,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0203-remove-linked-list-elements](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0066-plus-one](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -183,4 +186,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
