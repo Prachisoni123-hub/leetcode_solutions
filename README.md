@@ -49,6 +49,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0206-reverse-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -170,6 +172,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
