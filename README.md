@@ -120,6 +120,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -167,6 +168,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -209,6 +211,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
 ## Enumeration
 |  |
