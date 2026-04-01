@@ -198,6 +198,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -206,6 +207,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Memoization
 |  |
@@ -221,4 +223,12 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
