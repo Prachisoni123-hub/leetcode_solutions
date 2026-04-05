@@ -1,32 +1,31 @@
 class Solution {
     public String reverseWords(String s) {
-        StringBuilder result = new StringBuilder();
-        int i = s.length() - 1;
+        // reversing the whole string at first
+        StringBuilder sb = new StringBuilder(s);
+        sb.reverse();
+          
+          // now the string will be sb instead of s
+          int n = sb.length();
+           int i =0;
+           String result = "";
+           // for th extra space only
+           while ( i <n){
+            while (i < n && sb.charAt(i) == ' ') i++;
+            String word = " ";
+             while (i < n && sb.charAt(i) != ' '){
+               word += sb.charAt(i);
+               i++;
+             }
 
-        while (i >= 0) {
-
-            // skip spaces
-            while (i >= 0 && s.charAt(i) == ' ') {
-                i--;
-            }
-
-            if (i < 0) break;
-
-            int j = i;
-
-            // find word
-            while (i >= 0 && s.charAt(i) != ' ') {
-                i--;
-            }
-
-            // add word
-            if (result.length() != 0) {
-                result.append(" ");
-            }
-
-            result.append(s.substring(i + 1, j + 1));
-        }
-
-        return result.toString();
+             // reverse again 
+             String reversed = new StringBuilder(word).reverse().toString();
+             // storing in final string result
+         if(reversed.length() > 0){
+            result += reversed;
+         }
+  
+           }
+return result.trim();
+        
     }
 }
