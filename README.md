@@ -67,6 +67,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -79,6 +80,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Merge Sort
@@ -138,6 +140,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0125-valid-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
