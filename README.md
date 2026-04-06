@@ -141,6 +141,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0344-reverse-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -168,6 +169,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
