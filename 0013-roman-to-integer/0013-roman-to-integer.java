@@ -1,42 +1,24 @@
 class Solution {
     public int romanToInt(String s) {
-        int total = 0;
-
-        for(int i = 0; i < s.length(); i++){
-            
-            int current = 0;
-
-            // convert roman to number
-            if(s.charAt(i) == 'I') current = 1;
-            else if(s.charAt(i) == 'V') current = 5;
-            else if(s.charAt(i) == 'X') current = 10;
-            else if(s.charAt(i) == 'L') current = 50;
-            else if(s.charAt(i) == 'C') current = 100;
-            else if(s.charAt(i) == 'D') current = 500;
-            else if(s.charAt(i) == 'M') current = 1000;
-
-            // check next character
-            if(i < s.length() - 1){
-                int next = 0;
-
-                if(s.charAt(i+1) == 'I') next = 1;
-                else if(s.charAt(i+1) == 'V') next = 5;
-                else if(s.charAt(i+1) == 'X') next = 10;
-                else if(s.charAt(i+1) == 'L') next = 50;
-                else if(s.charAt(i+1) == 'C') next = 100;
-                else if(s.charAt(i+1) == 'D') next = 500;
-                else if(s.charAt(i+1) == 'M') next = 1000;
-
-                if(current < next){
-                    total -= current;
-                } else {
-                    total += current;
-                }
-            } else {
-                total += current;
-            }
-        }
-
-        return total;
+        // using hashmap
+        HashMap<Character,Integer> map = new HashMap<>();
+         map.put('I', 1);
+        map.put('V', 5);
+        map.put('X', 10);
+        map.put('L', 50);
+        map.put('C', 100);
+        map.put('D', 500);
+        map.put('M', 1000);
+// make total to store result
+int total = 0;
+  for(int i = 0; i < s.length(); i++){
+int current = map.get(s.charAt(i));
+if( i < s.length()-1 && current < map.get(s.charAt(i+1))){
+    total -=current;
+}else{
+    total += current;
+}
+  }       
+    return total;
     }
 }
