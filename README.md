@@ -62,6 +62,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -133,6 +134,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
@@ -181,6 +183,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
