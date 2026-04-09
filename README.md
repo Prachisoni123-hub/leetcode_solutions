@@ -25,6 +25,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -134,6 +135,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
@@ -200,6 +202,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
