@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 ## Sorting
@@ -114,6 +115,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
@@ -205,6 +207,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0005-longest-palindromic-substring](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
