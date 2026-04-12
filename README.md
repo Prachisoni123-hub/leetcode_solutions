@@ -43,6 +43,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -70,6 +71,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -85,6 +87,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -127,6 +130,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -204,6 +208,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
