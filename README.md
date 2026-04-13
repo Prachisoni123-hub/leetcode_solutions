@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -126,6 +127,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -179,6 +181,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
