@@ -93,6 +93,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0414-third-maximum-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Merge Sort
 |  |
@@ -141,6 +142,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -209,6 +211,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0326-power-of-three](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
