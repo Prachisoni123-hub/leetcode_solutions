@@ -1,30 +1,27 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        ArrayList<Integer> list = new ArrayList<>();
-        int n = nums.length;
+        ArrayList<Integer> posList = new ArrayList<>();
+        ArrayList<Integer> negList = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            list.add(0);
-        }
-
-        int pos = 0;
-        int neg = 1;
-
-        for (int i = 0; i < n; i++) {
-            if (nums[i] > 0) {
-                list.set(pos, nums[i]);
-                pos += 2;
+        // Step 1: separate positives & negatives
+        for (int num : nums) {
+            if (num > 0) {
+                posList.add(num);
             } else {
-                list.set(neg, nums[i]);
-                neg += 2;
+                negList.add(num);
             }
         }
 
-        int[] arr = new int[n];
-        int i = 0;
-        for (int ele : list) {
-            arr[i] = ele;
-            i++;
+        // Step 2: merge alternately
+        int[] arr = new int[nums.length];
+        int i = 0, j = 0;
+
+        for (int k = 0; k < nums.length; k++) {
+            if (k % 2 == 0) {
+                arr[k] = posList.get(i++);
+            } else {
+                arr[k] = negList.get(j++);
+            }
         }
 
         return arr;
