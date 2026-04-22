@@ -158,6 +158,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -196,6 +197,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +242,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
