@@ -45,6 +45,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0344-reverse-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -213,6 +214,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -288,6 +290,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
