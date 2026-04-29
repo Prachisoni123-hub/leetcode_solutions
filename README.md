@@ -82,6 +82,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -210,6 +212,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0345-reverse-vowels-of-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -300,6 +303,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
