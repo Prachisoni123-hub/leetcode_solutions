@@ -217,6 +217,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
