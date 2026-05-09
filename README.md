@@ -91,6 +91,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -191,6 +192,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -227,6 +229,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +318,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -403,4 +407,8 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 <!---LeetCode Topics End-->
