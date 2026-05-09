@@ -214,6 +214,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0151-reverse-words-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -337,6 +338,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -351,6 +353,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 |  |
@@ -362,6 +365,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
@@ -375,6 +379,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
