@@ -179,6 +179,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -305,6 +306,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
