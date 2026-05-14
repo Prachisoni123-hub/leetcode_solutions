@@ -30,6 +30,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -154,6 +155,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0015-3sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
