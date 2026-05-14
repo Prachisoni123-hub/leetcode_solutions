@@ -88,6 +88,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -173,6 +174,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0485-max-consecutive-ones](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -425,6 +427,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
