@@ -75,6 +75,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -162,6 +163,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -432,5 +434,6 @@ This repository contains my LeetCode problem solutions in Java.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 <!---LeetCode Topics End-->
