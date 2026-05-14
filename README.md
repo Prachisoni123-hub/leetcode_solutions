@@ -82,6 +82,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -109,6 +110,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0015-3sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -169,6 +171,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -409,6 +412,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
