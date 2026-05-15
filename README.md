@@ -163,6 +163,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
@@ -298,6 +299,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0493-reverse-pairs) |
