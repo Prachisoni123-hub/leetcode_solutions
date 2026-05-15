@@ -193,6 +193,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -300,6 +301,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
