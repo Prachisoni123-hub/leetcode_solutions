@@ -202,6 +202,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0875-koko-eating-bananas](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -311,6 +312,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
