@@ -207,6 +207,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -316,6 +317,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
