@@ -9,6 +9,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0061-rotate-list) |
@@ -62,6 +63,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
@@ -292,6 +294,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
