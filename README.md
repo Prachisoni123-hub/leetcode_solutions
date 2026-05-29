@@ -144,6 +144,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -177,6 +178,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -270,6 +272,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -281,6 +284,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -344,6 +348,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
