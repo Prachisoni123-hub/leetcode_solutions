@@ -147,6 +147,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
@@ -181,6 +182,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -289,6 +291,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
