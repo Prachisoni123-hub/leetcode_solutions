@@ -159,6 +159,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -215,6 +216,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -290,6 +292,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
