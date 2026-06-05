@@ -162,6 +162,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -220,6 +221,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -309,6 +311,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0456-132-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
