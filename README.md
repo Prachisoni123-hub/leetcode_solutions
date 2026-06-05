@@ -229,6 +229,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1732-find-the-highest-altitude](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -500,6 +501,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## Union-Find
 |  |
 | ------- |
