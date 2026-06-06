@@ -533,4 +533,8 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0456-132-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
