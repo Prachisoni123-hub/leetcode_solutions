@@ -250,6 +250,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -515,6 +516,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Union-Find
 |  |
 | ------- |
