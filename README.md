@@ -157,6 +157,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0456-132-pattern) |
@@ -323,6 +324,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0155-min-stack](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 ## String Matching
 |  |
@@ -418,6 +420,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
