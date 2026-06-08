@@ -164,6 +164,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
@@ -438,6 +439,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -485,6 +487,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
