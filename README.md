@@ -170,6 +170,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -450,10 +451,12 @@ This repository contains my LeetCode problem solutions in Java.
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -468,6 +471,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0897-increasing-order-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -498,6 +502,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0543-diameter-of-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
