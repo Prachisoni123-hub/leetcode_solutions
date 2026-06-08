@@ -176,6 +176,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -246,6 +247,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
+| [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -300,6 +302,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
