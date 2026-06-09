@@ -44,6 +44,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -212,6 +213,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -382,6 +384,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0035-search-insert-position](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0493-reverse-pairs) |
