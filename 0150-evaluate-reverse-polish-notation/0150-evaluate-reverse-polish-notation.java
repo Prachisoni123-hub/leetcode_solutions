@@ -19,11 +19,12 @@ class Solution {
 
            }
            else if(tokens[i].equals("-"))
-     {
-    int a = st.pop();
-    int b = st.pop();
-    st.push(b - a);
-     }
+           {
+          int a = st.pop();
+          int b = st.pop();
+          int subtraction = b-a;
+           st.push(subtraction);
+            }
           
            
            else if(!st.isEmpty() && tokens[i] .equals("/"))
