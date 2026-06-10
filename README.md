@@ -135,6 +135,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -251,6 +252,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -592,4 +594,8 @@ This repository contains my LeetCode problem solutions in Java.
 | [0596-classes-with-at-least-5-students](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
