@@ -104,6 +104,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -235,6 +236,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0485-max-consecutive-ones](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -314,6 +316,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
