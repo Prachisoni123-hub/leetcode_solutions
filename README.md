@@ -30,6 +30,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
@@ -122,6 +123,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -195,6 +197,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0001-two-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0027-remove-element) |
