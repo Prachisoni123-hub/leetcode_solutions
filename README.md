@@ -153,6 +153,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -287,6 +288,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -466,6 +468,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -631,4 +634,5 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
