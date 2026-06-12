@@ -1,29 +1,23 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
-        int n = nums.length;
-
-        // Step 1: Apply operations
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i] == nums[i + 1]) {
-                nums[i] = nums[i] * 2;
-                nums[i + 1] = 0;
+        for(int i = 0; i < nums.length - 1; i++) {
+            if(nums[i] == nums[i+1]) {
+                nums[i] *= 2;
+                nums[i+1] = 0;
             }
         }
-
-        // Step 2: Shift non-zero elements
-        int index = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != 0) {
-                nums[index++] = nums[i];
-            }
+        int i = 0, j = 0;
+        while(i < nums.length && j < nums.length) {
+            if(nums[i] == 0 && nums[j] != 0) {
+                nums[i] = nums[j];
+                nums[j] = 0;
+                i++;
+                j++;
+            }  
+            while(i < nums.length && nums[i] != 0) i++;
+            j = i+1;
+            while(j < nums.length && nums[j] == 0) j++;
         }
-
-        // Fill remaining with 0
-        while (index < n) {
-            nums[index++] = 0;
-        }
-
         return nums;
     }
 }
