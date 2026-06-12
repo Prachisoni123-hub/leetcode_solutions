@@ -239,6 +239,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
