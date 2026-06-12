@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -292,6 +293,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -361,6 +363,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0844-backspace-string-compare](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
