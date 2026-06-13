@@ -115,6 +115,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1002-find-common-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
@@ -275,6 +276,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0896-monotonic-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -342,6 +344,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0709-to-lower-case](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1002-find-common-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
