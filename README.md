@@ -347,6 +347,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1544-make-the-string-great](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
