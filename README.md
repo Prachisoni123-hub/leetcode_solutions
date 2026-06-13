@@ -341,6 +341,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0459-repeated-substring-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -401,6 +402,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
 ## Math
 |  |
