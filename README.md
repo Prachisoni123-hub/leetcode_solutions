@@ -154,6 +154,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1859-sorting-the-sentence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -354,6 +355,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
