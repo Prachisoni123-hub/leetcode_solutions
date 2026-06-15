@@ -122,6 +122,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -310,6 +311,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -364,6 +366,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1859-sorting-the-sentence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
 ## Matrix
 |  |
@@ -384,6 +387,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
