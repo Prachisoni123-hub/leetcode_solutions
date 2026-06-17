@@ -655,6 +655,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0596-classes-with-at-least-5-students](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
+| [1683-invalid-tweets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Counting Sort
 |  |
