@@ -268,6 +268,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
