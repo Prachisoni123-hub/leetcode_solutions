@@ -73,6 +73,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Recursion
 |  |
@@ -374,6 +375,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Matrix
 |  |
 | ------- |
