@@ -75,6 +75,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +324,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
