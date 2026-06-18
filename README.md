@@ -73,6 +73,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Recursion
 |  |
 | ------- |
@@ -320,6 +321,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
