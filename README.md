@@ -689,6 +689,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1148-article-views-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Counting Sort
 |  |
 | ------- |
