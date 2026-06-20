@@ -1,23 +1,22 @@
 class NumArray {
-int [] prefix;
+    int[] prefix;
+
     public NumArray(int[] nums) {
         int n = nums.length;
         prefix = new int[n];
-        // pehla index same dono m
         prefix[0] = nums[0];
-         // ab index jha s start honge
-         for( int i =1 ; i<n ;i++){
-            // main sum ( previous sum - current index)
-            prefix[i] = prefix[i-1] + nums[i];
-         }
+        for( int i =1 ;i<n;i++){
+            prefix[i] = prefix[i-1]+ nums[i];
+        }
         
     }
     
     public int sumRange(int left, int right) {
-        if(left == 0){
-       return prefix[right];
-}
-        return prefix[right] - prefix[left - 1];
+        if( left==0){
+           return prefix[right];
+        }
+      return prefix[right] - prefix[left-1];
+        
     }
 }
 
