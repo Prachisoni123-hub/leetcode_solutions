@@ -109,6 +109,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -148,6 +149,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -254,6 +256,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
@@ -446,6 +449,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -461,6 +465,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0074-search-a-2d-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0456-132-pattern) |
@@ -521,6 +526,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0078-subsets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
