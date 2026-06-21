@@ -239,6 +239,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0041-first-missing-positive](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -505,6 +506,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -519,6 +521,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
