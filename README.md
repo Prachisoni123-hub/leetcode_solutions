@@ -314,6 +314,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -474,6 +475,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
