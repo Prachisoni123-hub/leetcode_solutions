@@ -319,6 +319,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -526,6 +527,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -564,6 +566,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
