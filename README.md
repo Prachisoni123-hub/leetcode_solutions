@@ -124,6 +124,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -303,6 +304,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0875-koko-eating-bananas](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
@@ -564,6 +566,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
