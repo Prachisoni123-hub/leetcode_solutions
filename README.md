@@ -132,6 +132,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1207-unique-number-of-occurrences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -412,6 +413,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1768-merge-strings-alternately](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -583,6 +585,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -674,6 +677,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
