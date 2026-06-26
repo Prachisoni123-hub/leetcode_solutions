@@ -123,6 +123,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0500-keyboard-row](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -163,6 +164,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -288,6 +290,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -570,6 +573,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -664,6 +668,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0383-ransom-note](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
