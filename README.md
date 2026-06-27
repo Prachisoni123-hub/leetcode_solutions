@@ -416,6 +416,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -586,6 +587,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
 | ------- |
