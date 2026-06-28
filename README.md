@@ -86,6 +86,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0002-add-two-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0206-reverse-linked-list) |
@@ -375,6 +376,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -531,6 +533,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0005-longest-palindromic-substring](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -548,6 +551,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
