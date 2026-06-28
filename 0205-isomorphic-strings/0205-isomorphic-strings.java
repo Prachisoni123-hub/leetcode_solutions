@@ -1,30 +1,35 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if(s.length()!= t.length())return false;
-      HashMap<Character, Character> mapST = new HashMap<>();
-        HashMap<Character, Character> mapTS = new HashMap<>();
+        if(s.length() != t.length()) return false;
 
-        // iterating through whole loop taking any length
+        HashMap<Character ,Character> map1 = new HashMap<>();
+        HashMap<Character ,Character> map2 = new HashMap<>();
 
-        for(int i =0;i<s.length() ;i++){
-            // picking characters
-            char char1 = s.charAt(i);
-            char char2 = t.charAt(i);
+    for( int  i=0; i<s.length();i++){
+        char ch1 = s.charAt(i);
+        char ch2 = t.charAt(i);
 
-// start comparing from s --> t
-if(mapST.containsKey(char1)){
-    if(mapST.get(char1)!=char2) return false;
-}else{
-    mapST.put(char1,char2); // create mapping
-}
-// now to t --> s
-if(mapTS.containsKey(char2)){
-    if(mapTS.get(char2)!=char1) return false;
-}else{
-    mapTS.put(char2,char1); // create mapping
-}
+            // from s -> t
+        if(map1.containsKey(ch1)){
+            if(map1.get(ch1) != ch2){
+                return false;
+            }
+            }else{
+                map1.put(ch1,ch2);
+    }
+
+    // from t -> s
+
+       if(map2.containsKey(ch2)){
+            if(map2.get(ch2) != ch1){
+                return false;
+            }
+            }else{
+                map2.put(ch2,ch1);
+            }
         }
-        return true;
+    return true;
+
         
     }
 }
