@@ -24,6 +24,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0234-palindrome-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0575-distribute-candies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1002-find-common-characters) |
@@ -302,6 +304,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -465,6 +468,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0225-implement-stack-using-queues](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0705-design-hashset) |
 ## String Matching
 |  |
 | ------- |
@@ -768,4 +772,5 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
