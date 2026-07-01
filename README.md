@@ -398,6 +398,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
@@ -440,6 +441,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -491,6 +493,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
