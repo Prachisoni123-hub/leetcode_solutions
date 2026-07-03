@@ -285,6 +285,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0300-longest-increasing-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -519,6 +520,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0287-find-the-duplicate-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0493-reverse-pairs) |
@@ -556,6 +558,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0152-maximum-product-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -567,6 +570,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0044-wildcard-matching](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
@@ -723,6 +727,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0209-minimum-size-subarray-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
