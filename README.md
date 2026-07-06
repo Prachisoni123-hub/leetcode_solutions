@@ -180,6 +180,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0905-sort-array-by-parity](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -332,6 +333,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1288-remove-covered-intervals](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
