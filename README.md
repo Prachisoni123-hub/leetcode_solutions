@@ -148,6 +148,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -377,6 +378,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -553,6 +555,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
@@ -753,6 +756,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -800,4 +804,8 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0705-design-hashset) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
