@@ -365,6 +365,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2104-sum-of-subarray-ranges](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2145-count-the-hidden-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2145-count-the-hidden-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -749,6 +750,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [2145-count-the-hidden-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2145-count-the-hidden-sequences) |
 | [2574-left-and-right-sum-differences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
