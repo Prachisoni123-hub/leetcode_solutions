@@ -704,6 +704,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0897-increasing-order-search-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -711,6 +712,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0102-binary-tree-level-order-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Counting
 |  |
 | ------- |
@@ -758,6 +760,7 @@ This repository contains my LeetCode problem solutions in Java.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [2685-count-the-number-of-complete-components](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Indexed Tree
 |  |
@@ -809,5 +812,6 @@ This repository contains my LeetCode problem solutions in Java.
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
