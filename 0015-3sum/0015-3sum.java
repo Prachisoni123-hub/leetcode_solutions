@@ -1,35 +1,37 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        
         int n = nums.length;
-        if( n <3) return new ArrayList<>();
-         List<List<Integer>> ans = new ArrayList<>();
-         Arrays.sort(nums);
+        if( n < 3) return new ArrayList<>();
+        Arrays.sort(nums);
 
-        // loop for fix element : n1
-        for( int k =0;k<n-2;k++)
-        {
-            if( k > 0 && nums[k] == nums[k-1]) continue;
+        List<List<Integer>> ans = new ArrayList<>();
+    
+        // loop for the fixed element : n1
+        for( int k =0 ;k<n-2;k++){
+            if(k >0 && nums[k] == nums[k-1]) continue;
 
-          int n1 = nums[k];
-          int target = -n1;
-          
-          // two sum
-          int i =k+1;
-          int j =n-1;
-          
-          while( i < j){
-            int sum = nums[i] + nums[j];
-            if(sum == target){
-                ans.add(Arrays.asList( nums[k] , nums[i] , nums[j]));
-                i++;
-                j--;
             
-            // skip duplicates 
-            while( i<j && nums[i] == nums[i-1]) i++;
-            while( i<j && nums[j] == nums[j+1]) j--;
-            }else  if(sum > target) j--;
-            else i++; 
-          }
+            int n1= nums[k];
+            int target = -n1;
+         
+         // two sum
+            int i =k+1;
+            int j = n-1;
+
+            while( i < j){
+                int sum = nums[i]+nums[j];
+                if(sum == target){
+                    ans.add(Arrays.asList(nums[k] , nums[i] , nums[j]));
+                    i++;
+                    j--;
+                    // check for duplicates
+                    while(i<j && nums[i] == nums[i-1])i++;
+                    while( i <j && nums[j] == nums[j+1]) j--;
+
+                } else if( sum > target)j--;
+                else i++;
+            }
 
         }
         return ans;
