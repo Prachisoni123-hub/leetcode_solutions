@@ -697,6 +697,7 @@ This repository contains my LeetCode problem solutions in Java.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Depth-First Search
