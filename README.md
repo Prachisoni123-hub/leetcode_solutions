@@ -386,6 +386,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -530,6 +531,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -628,6 +630,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0389-find-the-difference](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sliding Window
 |  |
 | ------- |
