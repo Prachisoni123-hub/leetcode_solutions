@@ -1,14 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
+        HashSet<Integer> set = new HashSet<>();
+
+        for( int num:nums)
+        {
+            set.add(num);
+        }
+        for( int i=0;i<=nums.length;i++)
+        {
+         if(!set.contains(i))
+         {
+            return i;
+         }
+        }
+        return -1;
         
-        int xor1 =0;
-        int xor2 =0;
-        for( int i =1;i<=nums.length;i++){
-            xor1^=i;
-        }
-        for( int ele:nums){
-            xor2^=ele;
-        }
-        return xor1^xor2;
-   }
+    }
 }
