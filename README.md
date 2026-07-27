@@ -118,6 +118,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -168,6 +169,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0056-merge-intervals](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0268-missing-number) |
@@ -288,6 +290,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0229-majority-element-ii) |
