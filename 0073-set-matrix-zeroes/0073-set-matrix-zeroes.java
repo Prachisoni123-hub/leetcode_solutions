@@ -3,26 +3,34 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        int[] arr1 = new int[n];
+        int [] arr1 = new int[n];
         int[] arr2 = new int[m];
 
-        // Step 1: mark rows and columns
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (matrix[i][j] == 0) {
-                    arr1[i] = 1;
-                    arr2[j] = 1; //fixed
+        for(int i=0;i<n;i++)
+        {
+            for( int j=0;j<m;j++)
+            {
+                if(matrix[i][j]== 0)
+                {
+                    arr1[i] =1;
+                    arr2[j] = 1;
                 }
             }
         }
 
-        // Step 2: set zeroes
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (arr1[i] == 1 || arr2[j] == 1) {
-                    matrix[i][j] = 0;
+        // set zero
+         for(int i=0;i<n;i++)
+        {
+            for( int j=0;j<m;j++)
+            {
+                if(arr1[i] == 1 || arr2[j] == 1)
+                {
+                    matrix[i][j] =0;
                 }
+
+
             }
-        }
+            }
+        
     }
 }
