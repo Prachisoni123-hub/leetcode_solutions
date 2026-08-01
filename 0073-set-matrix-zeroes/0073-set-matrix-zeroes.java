@@ -3,32 +3,31 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        int [] arr1 = new int[n];
-        int[] arr2 = new int[m];
+    int[] arr1 = new int[n];
+    int[]  arr2 =new int [m];
+
 
         for(int i=0;i<n;i++)
         {
-            for( int j=0;j<m;j++)
+            for(int j=0;j<m;j++)
             {
-                if(matrix[i][j]== 0)
+                if(matrix[i][j] == 0)
                 {
-                    arr1[i] =1;
-                    arr2[j] = 1;
+                arr1[i] = 1;
+                arr2[j] = 1;
                 }
             }
         }
-
-        // set zero
-         for(int i=0;i<n;i++)
+          for(int i=0;i<n;i++)
         {
-            for( int j=0;j<m;j++)
+            for(int j=0;j<m;j++)
             {
-                if(arr1[i] == 1 || arr2[j] == 1)
-                {
-                    matrix[i][j] =0;
-                }
 
 
+        if(arr1[i] == 1 || arr2[j] == 1)
+        {
+            matrix[i][j] =0;
+        }
             }
             }
         
