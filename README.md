@@ -72,6 +72,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0876-middle-of-the-linked-list](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -187,6 +188,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -341,6 +343,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
+| [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -615,6 +618,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
