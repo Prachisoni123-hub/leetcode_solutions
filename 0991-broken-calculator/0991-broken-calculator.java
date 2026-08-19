@@ -1,24 +1,19 @@
 class Solution {
     public int brokenCalc(int startValue, int target) {
 
-        if(startValue == target)
-        {
-            return 0;
+        int count = 0;
+
+        while (target > startValue) {
+
+            if (target % 2 == 0) {
+                target = target / 2;
+            } else {
+                target = target + 1;
+            }
+
+            count++;
         }
-        
-         if(startValue > target)
-         {
-            return  startValue - target;
-         }
 
-         //even
-         if(target %2 == 0)
-         {
-             return 1 + brokenCalc(startValue, target/2);
-         }
-       
-       return 1 + brokenCalc(startValue, target+1);
-
-
+        return count + (startValue - target);
     }
 }
