@@ -535,6 +535,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0412-fizz-buzz](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0991-broken-calculator](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -620,6 +621,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0860-lemonade-change](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
