@@ -235,6 +235,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0503-next-greater-element-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -439,6 +440,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0459-repeated-substring-pattern](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0796-rotate-string) |
@@ -608,6 +610,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0392-is-subsequence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -624,6 +627,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0455-assign-cookies](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
@@ -869,4 +873,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
