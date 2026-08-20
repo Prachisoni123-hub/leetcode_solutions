@@ -540,6 +540,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0991-broken-calculator](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -625,6 +626,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0881-boats-to-save-people](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
