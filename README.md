@@ -363,6 +363,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1652-defuse-the-bomb](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
@@ -447,6 +448,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1189-maximum-number-of-balloons](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1544-make-the-string-great](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1544-make-the-string-great) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -606,6 +608,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
@@ -623,6 +626,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
