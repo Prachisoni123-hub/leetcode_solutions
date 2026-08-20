@@ -1,32 +1,30 @@
 class Solution {
     public boolean checkValidString(String s) {
+       
+        int high =0;  // for opening bracket
+        int low =0;   // for closing bracket
 
-        int high =0; // for opening bracket
-        int low=0;  // for closing bracket
-
-        for( char ch : s.toCharArray())
+        for( char ch :s.toCharArray())
         {
-            if( ch  == '(')
+            if(ch =='(')
             {
                 low++;
                 high++;
-
-            }else if ( ch == ')')
+            }
+            else if( ch == ')')
             {
                 low--;
                 high--;
             }else{
-                // '*'
                 low--;
                 high++;
             }
+            if(high < 0) return false;
 
-            if(high <0)
-            return false;
-        
-
-  low = Math.max(0,low);
+            low = Math.max(0,low);
         }
+
         return low ==0;
+        
     }
 }
