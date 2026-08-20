@@ -203,6 +203,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Merge Sort
@@ -384,6 +385,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -634,6 +636,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
