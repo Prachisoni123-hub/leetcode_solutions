@@ -397,6 +397,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -492,6 +493,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
