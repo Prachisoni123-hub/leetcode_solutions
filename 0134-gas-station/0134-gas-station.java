@@ -1,38 +1,28 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
 
-        int n = gas.length;
-        int sumgas =0;
-        int sumcost =0;
+        int totalgas = 0;
+        int totalcost = 0;
+        int start = 0;
+        int tank = 0;
 
-        // total gas and total cost
+        for (int i = 0; i < gas.length; i++) {
 
-        for(int i =0;i<n;i++)
-        {
-            sumgas +=gas[i];
-            sumcost += cost[i];
+            totalgas += gas[i];
+            totalcost += cost[i];
+
+            tank += gas[i] - cost[i];
+
+            if (tank < 0) {
+                start = i + 1;
+                tank = 0;
+            }
         }
 
-       // Agar total gas < total cost,
-        // toh circuit complete karna impossible hai
-        if( sumgas < sumcost) return -1;
+        if (totalgas < totalcost) {
+            return -1;
+        }
 
-        int total =0;
-        int result =0;
-           for (int i = 0; i < n; i++) {
-            total += gas[i]-cost[i];
-
-             // Current starting point fail ho gaya
-             if(total < 0)
-             {
-                total =0;
-                result = i+1;
-             }
-           }
-           return result;
-
-
-
-        
+        return start;
     }
 }
