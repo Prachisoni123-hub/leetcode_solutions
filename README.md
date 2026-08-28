@@ -148,6 +148,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
+| [2405-optimal-partition-of-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -466,6 +467,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2405-optimal-partition-of-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3174-clear-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -645,6 +647,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
