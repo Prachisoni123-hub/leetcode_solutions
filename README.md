@@ -389,6 +389,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -551,6 +552,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -647,6 +649,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
