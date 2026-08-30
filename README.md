@@ -470,6 +470,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1859-sorting-the-sentence](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2157-groups-of-strings](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2157-groups-of-strings) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2405-optimal-partition-of-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
@@ -556,6 +557,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -653,6 +655,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1833-maximum-ice-cream-bars](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2126-destroying-asteroids](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -894,4 +897,8 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
