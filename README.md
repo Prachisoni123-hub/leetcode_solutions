@@ -357,6 +357,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [1260-shift-2d-grid](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -620,6 +621,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0678-valid-parenthesis-string](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -641,6 +643,7 @@ This repository contains my LeetCode problem solutions in Java.
 | [0948-bag-of-tokens](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1323-maximum-69-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
