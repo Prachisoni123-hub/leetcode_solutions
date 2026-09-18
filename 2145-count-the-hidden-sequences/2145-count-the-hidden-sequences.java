@@ -1,23 +1,23 @@
 class Solution {
     public int numberOfArrays(int[] differences, int lower, int upper) {
-
-        long sum = 0;
-        long min = 0;
-        long max = 0;
-
+        long current = 0;
+        long minPrefix = 0;
+        long maxPrefix = 0;
+        
+        // Track minimum and maximum prefix sums relative to hidden[0]
         for (int diff : differences) {
-            sum += diff;
-
-            min = Math.min(min, sum);
-            max = Math.max(max, sum);
+            current += diff;
+            minPrefix = Math.min(minPrefix, current);
+            maxPrefix = Math.max(maxPrefix, current);
         }
-
-        long left = lower - min;
-        long right = upper - max;
-
-        if (left > right)
-            return 0;
-
-        return (int)(right - left + 1);
+        
+        // Determine valid range for hidden[0]
+        // All elements must be within [lower, upper]
+        long minAllowed = lower - minPrefix;
+        long maxAllowed = upper - maxPrefix;
+        
+        // Count valid starting values
+        long count = maxAllowed - minAllowed + 1;
+        return Math.max(0, (int) count);
     }
 }
