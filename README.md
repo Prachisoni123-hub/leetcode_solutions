@@ -851,6 +851,7 @@ This repository contains my LeetCode problem solutions in Java.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prachisoni123-hub/leetcode_solutions/tree/master/0595-big-countries) |
